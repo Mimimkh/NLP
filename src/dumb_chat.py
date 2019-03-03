@@ -2,7 +2,7 @@
 import random
 # import datetime module for getting a date for today
 import datetime
-from collections import defaultdict
+# from collections import defaultdict
 name = "UsydBot"
 date = datetime.datetime.today().strftime("%d/%m/%Y")
 
