@@ -1,5 +1,5 @@
 # NLP
-NLP chatbot roject
+NLP chatbot project: 
 Chatbots (Chat-oriented Conversational Agent) are designed to handle full conversations, mimicking the unstructured flow of a human to human conversation. In this assignment, you are to implement a basic (chit-chat) chatbot using Sequence to Sequence (seq2seq) model and Word Embeddings. The detailed information for each implementation step was specified in the following sections.
 
 1.	Data Preprocessing for Chatbot
